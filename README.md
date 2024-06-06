@@ -49,7 +49,7 @@ ORDER BY STUDENT_ID desc nulls first
     3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-### File1: FunctionConfigaration.css$${\color{red}FunctionConfigaration.css \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{red}### File1: \space \color{FunctionConfigaration.css}}$$
       >> Copy this below code >> Go to Node pad ++ >> paste the code >> language change to css >> then save this file {File_name:: FunctionConfigaration.css} 
   ```css
         .t-Report-report .form-control{
