@@ -50,7 +50,7 @@ ORDER BY STUDENT_ID desc nulls first
     
    ### File1: FunctionConfigaration.css
       >> Copy this below code >> Go to Node pad ++ >> paste the code >> language change to css >> then save this file {File_name:: FunctionConfigaration.css} 
-        ```css
+  ```css
         .t-Report-report .form-control{
               padding: 0px;
         }
@@ -135,7 +135,7 @@ ORDER BY STUDENT_ID desc nulls first
         .red{
             border:1px solid red !important;
         }
-        ```
+```
     
 ## Step4:
 ## Step5:
