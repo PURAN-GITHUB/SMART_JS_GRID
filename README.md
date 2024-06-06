@@ -44,12 +44,12 @@ ORDER BY STUDENT_ID desc nulls first
 ```
 ## Step3:
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
-    1. ![FunctionConfigaration_css](https://github.com/PURAN-GITHUB/CSS) [Style property purose]
-    2. ![FunctionConfigaration_js](https://github.com/PURAN-GITHUB/CSS)  [Icon show/ hide, row editable/disable, item filed required etc.]
-    3. ![Add_Update_Delete_Recors_js](https://github.com/PURAN-GITHUB/CSS) [Records insert,upadte & delete]
+   **Files:** ![Css File](https://github.com/PURAN-GITHUB/CSS)
+    1. FunctionConfigaration.css [Style property purose]
+    2. FunctionConfigaration.js [Icon show/ hide, row editable/disable, item filed required etc.]
+    3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
 
 
-**File1:** ![Css File](https://github.com/PURAN-GITHUB/CSS)
   
 ## Step4:
 ## Step5:
