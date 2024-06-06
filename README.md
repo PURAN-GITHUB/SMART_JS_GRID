@@ -27,7 +27,7 @@ ORDER BY STUDENT_ID desc nulls first
 # Step2: 
       All Columns type >> Parcent graph but Edit column type >> Plain text
       Go to Edit column >> Column Formating[HTML Expression] >> put this below code
-      ```html
+  ```html
       <html>
     <span class="editableparent">
         <span id="ADDIGROW" class="addrowfa" onclick="AddRecord('STUDENT')">
@@ -43,7 +43,7 @@ ORDER BY STUDENT_ID desc nulls first
         </span>
     </span>
     </html>
-      ```
+```
 # Step3:
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
     1. FunctionConfigaration.css [Style property purose]
