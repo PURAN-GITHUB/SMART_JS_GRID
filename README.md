@@ -43,7 +43,7 @@ ORDER BY STUDENT_ID desc nulls first
     </span>
 ```
 ## Step3:
-    Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
+    Go to Share components >> Staic application file >> total 3 file upload [one CSS , two js file] 
    **CSS Files:** [Download](https://github.com/PURAN-GITHUB/CSS)
    
     1. FunctionConfigaration.css [Style property purose]
