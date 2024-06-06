@@ -43,7 +43,7 @@ ORDER BY STUDENT_ID desc nulls first
     </span>
 ```
 ## Step3:
-   FngEr.css
+   [FngEr.css]
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
     1. FunctionConfigaration.css [Style property purose]
     2. FunctionConfigaration.js  [Icon show/ hide, row editable/disable, item filed required etc.]
