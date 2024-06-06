@@ -44,102 +44,13 @@ ORDER BY STUDENT_ID desc nulls first
 ```
 ## Step3:
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
-    1. FunctionConfigaration.css [Style property purose]
-    2. FunctionConfigaration.js  [Icon show/ hide, row editable/disable, item filed required etc.]
-    3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+    1. ![FunctionConfigaration_css](https://github.com/PURAN-GITHUB/CSS) [Style property purose]
+    2. ![FunctionConfigaration_js](https://github.com/PURAN-GITHUB/CSS)  [Icon show/ hide, row editable/disable, item filed required etc.]
+    3. ![Add_Update_Delete_Recors_js](https://github.com/PURAN-GITHUB/CSS) [Records insert,upadte & delete]
+
 
 **File1:** ![Css File](https://github.com/PURAN-GITHUB/CSS)
-$${\color{lightblue}FunctionConfigaration.css}$$
-
-      >> Copy this below code >> Go to Node pad ++ >> paste the code >> language change to css >> then save this file {File_name:: FunctionConfigaration.css} 
-  ```css
-        .t-Report-report .form-control{
-              padding: 0px;
-        }
-        .t-Report-report .a-Button--calendar, .t-Report-report .a-Button--colorPicker, .t-Report-report .a-Button--listManager, .t-Report-report .a-Button--popupLOV {
-          float: right;
-          margin-top: -7px;
-          margin-left: -25px;
-          min-height: 27px;
-        }
-        #ADDIGROW .fa {
-          font-size: 26px;
-        }
-        #ADDIGROW1 .fa {
-          font-size: 26px;
-        }
-        #ADDIGROW2 .fa {
-          font-size: 26px;
-        }
-        .eptwo{
-            display:none;
-        }
-        .editableparent .fa{
-            cursor: pointer;
-            margin: 4px;
-        }
-        .ed {
-          display: inline-flex;
-          justify-content: center;
-          margin: 0 auto;
-          max-width: 60px;
-        }
-        .rb{
-          border: none;
-          background: transparent;
-          pointer-events: none;
-          cursor: not-allowed;
-        }
-        .rb ~ button {
-          display: none;
-        }
-        
-        .epone .editfa {
-          color: #2f90b2;
-          font-size: 20px;
-          font-weight: bold;
-        }
-        .epone .deletefa {
-          color: #d23a60;
-          font-size: 20px;
-          font-weight: bold;
-        }
-        .eptwo .updatefa {
-          color: #00945f;
-          font-size: 20px;
-          font-weight: bold;
-        }
-        .eptwo .cancelfa {
-          color: #d23a60;
-          font-size: 20px;
-          font-weight: bold;
-        }
-        #ADDIGROW .fa {
-          font-size: 26px;
-          color: #00945f;
-          font-weight: bold;
-        }
-        
-        #ADDIGROW1 .fa {
-          font-size: 26px;
-          color: #00945f;
-          font-weight: bold;
-        }
-        #ADDIGROW2 .fa {
-          font-size: 26px;
-          color: #00945f;
-          font-weight: bold;
-        }
-        
-        .t-Report-report .a-Button--popupLOV {
-          margin-top: 0px;
-        }
-        .red{
-            border:1px solid red !important;
-        }
-```
-    
+  
 ## Step4:
 ## Step5:
 ## Step6:
