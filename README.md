@@ -24,7 +24,7 @@ WHERE ROWNUM <= 1
 )
 ORDER BY STUDENT_ID desc nulls first
 ```      
-# Step2: 
+## Step2: 
       All Columns type >> Parcent graph but Edit column type >> Plain text
       Go to Edit column >> Column Formating[HTML Expression] >> put this below code
   ```html
@@ -44,13 +44,13 @@ ORDER BY STUDENT_ID desc nulls first
     </span>
     </html>
 ```
-# Step3:
+## Step3:
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
     1. FunctionConfigaration.css [Style property purose]
     2. FunctionConfigaration.js  [Icon show/ hide, row editable/disable, item filed required etc.]
     3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
 
-  # File1: FunctionConfigaration.css
+  ### File1: FunctionConfigaration.css
       >> Copy this below code >> Go to Node pad ++ >> paste the code >> language change to css >> then save this file {File_name:: FunctionConfigaration.css} 
         ```html
         .t-Report-report .form-control{
@@ -139,6 +139,6 @@ ORDER BY STUDENT_ID desc nulls first
         }
         ```
     
-# Step4:
-# Step5:
-# Step6:
+## Step4:
+## Step5:
+## Step6:
