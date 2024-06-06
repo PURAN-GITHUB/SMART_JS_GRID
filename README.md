@@ -44,8 +44,7 @@ ORDER BY STUDENT_ID desc nulls first
 ```
 ## Step3:
     Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
-    
-    ![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Instruction_img1.jpg)
+![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Instruction_img1.jpg)
     
    **CSS Files:** [Download](https://github.com/PURAN-GITHUB/CSS)
    
