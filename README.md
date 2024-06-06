@@ -51,7 +51,7 @@ ORDER BY STUDENT_ID desc nulls first
     2. FunctionConfigaration.js [Icon show/ hide, row editable/disable, item filed required etc.]
     3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
 
-   
+   ![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Share.jpg)
   
 ## Step4:
 ## Step5:
