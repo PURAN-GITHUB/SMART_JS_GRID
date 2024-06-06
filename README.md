@@ -43,14 +43,15 @@ ORDER BY STUDENT_ID desc nulls first
     </span>
 ```
 ## Step3:
-    Go to Share components >> Staic application file >> total 3 file upload [one CSS , two js file] 
+    Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
+    >> Copy Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
    **CSS Files:** [Download](https://github.com/PURAN-GITHUB/CSS)
    
     1. FunctionConfigaration.css [Style property purose]
     2. FunctionConfigaration.js [Icon show/ hide, row editable/disable, item filed required etc.]
     3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
 
-
+   
   
 ## Step4:
 ## Step5:
