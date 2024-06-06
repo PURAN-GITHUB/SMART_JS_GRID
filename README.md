@@ -28,7 +28,6 @@ ORDER BY STUDENT_ID desc nulls first
       All Columns type >> Parcent graph but Edit column type >> Plain text
       Go to Edit column >> Column Formating[HTML Expression] >> put this below code
   ```html
-      <html>
     <span class="editableparent">
         <span id="ADDIGROW" class="addrowfa" onclick="AddRecord('STUDENT')">
             <i class="fa fa-plus" aria-hidden="true" title="Add Row"></i>
@@ -42,16 +41,16 @@ ORDER BY STUDENT_ID desc nulls first
             <i class="fa fa-times cancelfa" aria-hidden="true" title="Cancel"></i>
         </span>
     </span>
-    </html>
 ```
 ## Step3:
     Go to Share components >> Staic application file >> total 3 file uploaded [one CSS , two js file] 
     1. FunctionConfigaration.css [Style property purose]
     2. FunctionConfigaration.js  [Icon show/ hide, row editable/disable, item filed required etc.]
     3. Add_Update_Delete_Recors_js.js [Records insert,upadte & delete]
-   File1: FunctionConfigaration.css
+    
+   ###File1: FunctionConfigaration.css
       >> Copy this below code >> Go to Node pad ++ >> paste the code >> language change to css >> then save this file {File_name:: FunctionConfigaration.css} 
-        ```html
+        ```css
         .t-Report-report .form-control{
               padding: 0px;
         }
