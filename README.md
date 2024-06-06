@@ -1,7 +1,7 @@
 # Editable Classic Report
-# Step1:
+## Step1:
   >> Create a classic report
-  # Query:
+  ### Query:
   ```SQL
     SELECT * FROM(SELECT   STUDENT_ID, 
     APEX_ITEM.HIDDEN(1,STUDENT_ID)||
