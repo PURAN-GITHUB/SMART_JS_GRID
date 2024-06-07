@@ -59,10 +59,10 @@ Go to Share components >> Staic application file >> total 3 files dowload then u
 Copy File Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
 ![url paste section](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/url_paste_section.jpg)
 ## Step5:
-Create a After refresh dynamic action::
-  <br>Event: After Refresh
-  Selection Type: Region
-  True action:: EXcute JavaScript Code ::: FngEr('STUDENT'); //'STUDENT' Region static Id</br>
+**Create a After refresh dynamic action::**
+* <br>Event: After Refresh</br>
+  <br>Selection Type: Region</br>
+  <br>True action:: EXcute JavaScript Code ::: FngEr('STUDENT'); //'STUDENT' Region static Id</br>
 ![Dynamic action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/After_refresh_dynamic.jpg)
 ![Dynaic true action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Dynamic_true_action.jpg)
 ## Step6:
