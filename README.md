@@ -50,10 +50,10 @@ ORDER BY STUDENT_ID desc nulls first
     
    **CSS Files:**  [Download](https://github.com/PURAN-GITHUB/CSS)
    
-   [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.css) 
-       1. FunctionConfigaration.css {Style property purose}
-       2. FunctionConfigaration.js {Icon show/ hide, row editable/disable, item filed required etc.} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.js)
-       3. Add_Update_Delete_Recors_js.js {Records insert,upadte & delete} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Add_Update_Delete_Recors_js.js)
+   
+  1. FunctionConfigaration.css {Style property purose}[Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.css) 
+  2. FunctionConfigaration.js {Icon show/ hide, row editable/disable, item filed required etc.} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.js)
+  3. Add_Update_Delete_Recors_js.js {Records insert,upadte & delete} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Add_Update_Delete_Recors_js.js)
 
 ## Step4:
    >> Copy Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
