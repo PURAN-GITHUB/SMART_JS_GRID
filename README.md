@@ -62,5 +62,7 @@ ORDER BY STUDENT_ID desc nulls first
     Create a After refresh dynamic action::
         Event: After Refresh
         Selection Type: Region
-    True action:: EXcute JavaScript Code
+    True action:: EXcute JavaScript Code ::: FngEr('STUDENT'); //'STUDENT' Region static Id
+![Dynamic action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/After_refresh_dynamic.jpg)
+![Dynaic true action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Dynamic_true_action.jpg)
 ## Step6:
