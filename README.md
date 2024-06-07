@@ -1,7 +1,7 @@
 # Editable Classic Report
 ![Smart JS Grid](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/smartjsgrid.jpg)
 ## Step1:
-  >> Create a classic report
+  **Create a classic report**
   ### Query:
   ```SQL
     SELECT * FROM(SELECT   STUDENT_ID, 
@@ -26,8 +26,8 @@ WHERE ROWNUM <= 1
 ORDER BY STUDENT_ID desc nulls first
 ```      
 ## Step2: 
-All Columns type >> Parcent graph but Edit column type >> Plain text
-Go to Edit column >> Column Formating[HTML Expression] >> put this below code
+**All Columns type >> Parcent graph but Edit column type >> Plain text**</br>
+**Go to Edit column >> Column Formating[HTML Expression] >> put this below code**
 ![HTML Expression](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/HTML_Expression.jpg)
   ```html
     <span class="editableparent">
@@ -45,7 +45,7 @@ Go to Edit column >> Column Formating[HTML Expression] >> put this below code
     </span>
 ```
 ## Step3:
-Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
+**Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]**
 ![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Instruction_img1.jpg)
     
    **CSS Files:**  [Download](https://github.com/PURAN-GITHUB/CSS)
@@ -56,7 +56,7 @@ Go to Share components >> Staic application file >> total 3 files dowload then u
   3. Add_Update_Delete_Recors_js.js {Records insert,upadte & delete} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Add_Update_Delete_Recors_js.js)
 
 ## Step4:
-Copy File Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
+**Copy File Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]**
 ![url paste section](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/url_paste_section.jpg)
 ## Step5:
 **Create a After refresh dynamic action::**
