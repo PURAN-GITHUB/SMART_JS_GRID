@@ -49,7 +49,9 @@ ORDER BY STUDENT_ID desc nulls first
 ![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Instruction_img1.jpg)
     
    **CSS Files:**  [Download](https://github.com/PURAN-GITHUB/CSS)
-       1. FunctionConfigaration.css {Style property purose}[Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.css) 
+   
+   [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.css) 
+       1. FunctionConfigaration.css {Style property purose}
        2. FunctionConfigaration.js {Icon show/ hide, row editable/disable, item filed required etc.} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/FunctionConfigaration.js)
        3. Add_Update_Delete_Recors_js.js {Records insert,upadte & delete} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Add_Update_Delete_Recors_js.js)
 
