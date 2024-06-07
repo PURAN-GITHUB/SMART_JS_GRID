@@ -26,8 +26,8 @@ WHERE ROWNUM <= 1
 ORDER BY STUDENT_ID desc nulls first
 ```      
 ## Step2: 
-      All Columns type >> Parcent graph but Edit column type >> Plain text
-      Go to Edit column >> Column Formating[HTML Expression] >> put this below code
+All Columns type >> Parcent graph but Edit column type >> Plain text
+Go to Edit column >> Column Formating[HTML Expression] >> put this below code
 ![HTML Expression](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/HTML_Expression.jpg)
   ```html
     <span class="editableparent">
