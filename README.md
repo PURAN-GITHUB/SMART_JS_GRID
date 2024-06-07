@@ -56,13 +56,13 @@ Go to Share components >> Staic application file >> total 3 files dowload then u
   3. Add_Update_Delete_Recors_js.js {Records insert,upadte & delete} [Download](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Add_Update_Delete_Recors_js.js)
 
 ## Step4:
-    Copy File Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
+Copy File Reference url >> Return the page designer >> JavaScript [File url section paste the js file url] &&&  CSS [File url section paste the cdds file url]
 ![url paste section](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/url_paste_section.jpg)
 ## Step5:
-    Create a After refresh dynamic action::
-        Event: After Refresh
-        Selection Type: Region
-    True action:: EXcute JavaScript Code ::: FngEr('STUDENT'); //'STUDENT' Region static Id
+Create a After refresh dynamic action::
+  Event: After Refresh
+  Selection Type: Region
+  True action:: EXcute JavaScript Code ::: FngEr('STUDENT'); //'STUDENT' Region static Id
 ![Dynamic action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/After_refresh_dynamic.jpg)
 ![Dynaic true action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Dynamic_true_action.jpg)
 ## Step6:
