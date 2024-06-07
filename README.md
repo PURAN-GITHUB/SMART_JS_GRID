@@ -1,5 +1,5 @@
 # Editable Classic Report
-![Smart JS Grid](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/smartjsgrid.jpg)
+![Smart JS Grid](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/smartjsgrid.jpg)
 ## Step1:
   >> Create a classic report
   ### Query:
@@ -28,6 +28,7 @@ ORDER BY STUDENT_ID desc nulls first
 ## Step2: 
       All Columns type >> Parcent graph but Edit column type >> Plain text
       Go to Edit column >> Column Formating[HTML Expression] >> put this below code
+![HTML Expression](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/HTML_Expression.jpg)
   ```html
     <span class="editableparent">
         <span id="ADDIGROW" class="addrowfa" onclick="AddRecord('STUDENT')">
@@ -45,7 +46,7 @@ ORDER BY STUDENT_ID desc nulls first
 ```
 ## Step3:
     Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
-![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/Instruction_img1.jpg)
+![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Instruction_img1.jpg)
     
    **CSS Files:** [Download](https://github.com/PURAN-GITHUB/CSS)
    
