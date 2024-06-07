@@ -45,7 +45,7 @@ Go to Edit column >> Column Formating[HTML Expression] >> put this below code
     </span>
 ```
 ## Step3:
-    Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
+Go to Share components >> Staic application file >> total 3 files dowload then upload on static application file [one CSS , two js file]
 ![Instruction](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Instruction_img1.jpg)
     
    **CSS Files:**  [Download](https://github.com/PURAN-GITHUB/CSS)
