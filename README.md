@@ -70,3 +70,29 @@ ORDER BY STUDENT_ID desc nulls first
 ![Dynaic true action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Dynamic_true_action.jpg)
 
 ## Step6:
+**Create a Ajax Callback Process**
+>>**Add data (For insert data in Data base )**
+```sql
+   INSERT INTO STUDENT 
+     (FIRST_NAME,LAST_NAME,ADMISSION_DATE,STATUS)
+   VALUES
+     (APEX_APPLICATION.G_X02,APEX_APPLICATION.G_X03,TO_DATE(APEX_APPLICATION.G_X05, 'MON-DD-YYYY'),APEX_APPLICATION.G_X07);
+```
+>>**Update data (For update data in Data base)**
+```sql
+UPDATE STUDENT SET 
+  	 FIRST_NAME      = APEX_APPLICATION.G_X02,
+ 	  LAST_NAME       = APEX_APPLICATION.G_X03,
+    ADMISSION_DATE  = TO_DATE(APEX_APPLICATION.G_X05, 'MON-DD-YYYY'),
+    STATUS          = APEX_APPLICATION.G_X07
+WHERE 
+    STUDENT_ID = APEX_APPLICATION.G_X01;
+```
+>>**Delete record (For delete data from Data base)**
+```sql
+ BEGIN
+  		DELETE FROM STUDENT
+ 		 WHERE STUDENT_ID = APEX_APPLICATION.G_X01;
+  	 COMMIT;
+	END;
+```
