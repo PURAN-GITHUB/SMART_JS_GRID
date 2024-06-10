@@ -69,8 +69,7 @@ ORDER BY STUDENT_ID desc nulls first
 ![Dynamic action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/After_refresh_dynamic.jpg)
 ![Dynaic true action](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Dynamic_true_action.jpg)
 
-## Step6:
-**Create a Ajax Callback Process**
+## Step6: **Create a Ajax Callback Process**
 >>**Add data (For insert data in Data base )**
 ```sql
    INSERT INTO STUDENT 
@@ -78,6 +77,7 @@ ORDER BY STUDENT_ID desc nulls first
    VALUES
      (APEX_APPLICATION.G_X02,APEX_APPLICATION.G_X03,TO_DATE(APEX_APPLICATION.G_X05, 'MON-DD-YYYY'),APEX_APPLICATION.G_X07);
 ```
+![add_data](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Add_data.jpg)
 >>**Update data (For update data in Data base)**
 ```sql
 UPDATE STUDENT SET 
@@ -88,6 +88,8 @@ UPDATE STUDENT SET
 WHERE
 	STUDENT_ID = APEX_APPLICATION.G_X01;
 ```
+![add_data](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/update_data.jpg)
+
 >>**Delete record (For delete data from Data base)**
 ```sql
  BEGIN
@@ -96,3 +98,5 @@ WHERE
 	COMMIT;
 END;
 ```
+![add_data](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/delete_data.jpg)
+
