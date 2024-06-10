@@ -1,5 +1,5 @@
 # Editable Classic Report
-![Smart JS Grid](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/smartjsgrid.jpg)
+![Smart JS Grid](https://github.com/PURAN-GITHUB/Smart_Grid_File/blob/main/IMAGE_FILE/Smart_JS_Grid.jpg)
 ## Step1:
   **Create a classic report**
   ### Query:
